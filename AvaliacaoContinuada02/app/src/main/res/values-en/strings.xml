@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaliacao Continuada 02</string>
+    <string name="listar_cachorros">List Dogs</string>
+    <string name="campo_raca">Breed</string>
+    <string name="campo_preco">Average Price</string>
+    <string name="cadastrar_cachorro">Register Dog</string>
+    <string name="campo_switch">Suitable for children?</string>
+    <string name="listados">Listed Dogs</string>
+</resources>

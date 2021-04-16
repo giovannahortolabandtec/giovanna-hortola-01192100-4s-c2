@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Avaliacao Continuada 02</string>
+    <string name="cadastrar_cachorro">Cadastrar Cachorro</string>
+    <string name="listar_cachorros">Listar Cachorros</string>
+    <string name="campo_raca">Raça</string>
+    <string name="campo_preco">Preço Médio</string>
+    <string name="campo_switch">Indicado para crianças?</string>
+    <string name="listados">Cachorros Listados</string>
+    <string name="indicados">Cachorros indicados para crianças: </string>
+    <string name="nao_indicados">Cachorros não indicados para crianças: </string>
+    <string name="total_cachorros">Total de Cachorros: </string>
+</resources>
